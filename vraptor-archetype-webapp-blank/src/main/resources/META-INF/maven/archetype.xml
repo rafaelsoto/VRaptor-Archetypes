@@ -18,6 +18,7 @@
       <resource>src/main/resources/messages.properties</resource>
       <resource>src/main/webapp/index.jsp</resource>
       <resource>src/main/webapp/META-INF/MANIFEST.MF</resource>
+      <resource>src/main/webapp/META-INF/jsp/readme.txt</resource>
       <resource>src/main/webapp/WEB-INF/web.xml</resource>
    </resources>
 </archetype>
